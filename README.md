@@ -25,4 +25,4 @@ Products catalog implemented according to [this design](https://www.figma.com/fi
 - Mate Academy API
 
 # Demo
-A live demo of the React Products Catalog App is available at [DEMO](https://kbekher.github.io/react-products-catalog/).
+A live demo of the React Products Catalog App is available at [DEMO](https://kbekher.github.io/react-products-catalog/)
